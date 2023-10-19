@@ -2,6 +2,9 @@
 Weird, Cool, and Fun space to see some animals, attend a science class or stare at the stars
 ![thumbnail](https://github.com/Rezvision/Reza-s-planet-VR-environment/assets/147525543/db427b75-b329-4770-a541-f7aa34c7605e)
 
+You can view the environment in Spatial platform by clicking the following link:
+Spatial link: https://www.spatial.io/s/Rezas-planet-6525f4e612bbd4d87ea2dca0?share=0
+
 **Step 1:** Setting up the project  
 
 **Step 2:**  Creating a scene and saving it in your directory for the project in the scene’s folder.
